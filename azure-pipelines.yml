@@ -7,7 +7,7 @@ pool:
   vmImage: 'ubuntu-latest'
 
 variables:
-  azureSubscription: '2ab47920-5a31-45ea-818e-7ccb68bd7b88'
+  azureSubscription: 'Pay-As-You-Go'
   appName: 'test-app-0198'
   resourceGroupName: 'vnet'
 
